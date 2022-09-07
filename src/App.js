@@ -7,7 +7,7 @@ import { ChannelListContainer,ChannelContainer } from './components'
 
 import './App.css';
 
-const apiKey = '2h8bkmkv5tx'
+const apiKey = '2h8bkmkv5txj'
 
 const client = StreamChat.getInstance(apiKey);
 
